@@ -5,3 +5,4 @@ description = "金蝶云星空 MCP Server：让 Claude/Cursor 等 AI 助手用�
 requires-python = ">=3.10"
 # guard against empty input
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
